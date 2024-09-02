@@ -1,0 +1,244 @@
+body{
+    margin: 0;
+    height: 120vh;
+   background-image: url('Bgd/BGDfGamesPa.jpg');
+   background-color: #fde7d0;
+   background-size: contain;
+   background-position: center;
+   background-repeat: no-repeat;
+}
+@keyframes slide-up {
+    0% {
+        background-position: center;
+    }
+    100% {
+        background-position: top;
+    }
+}
+#Gamesline1{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+   
+}
+#Gamesline2{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+#software1{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+#software2{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+    #Game1{
+        width: 200px; 
+        height: 165px; 
+        background-color: black;
+        text-align: center;
+        color: white; 
+        padding: 5px; 
+        display: flex;
+        flex-direction: row;
+        margin: 4px;
+    }
+
+        .text{
+            margin-left: 10px;
+        }
+        #liGame1{
+            text-decoration: none; 
+            background-color: #4CAF50; 
+            color: white; 
+            padding: 5px 20px;
+            text-align: center;
+            display: inline-block;
+            margin-top: 17px;
+            border-radius: 4px;
+        }
+    
+        
+    #Game2{
+        width: 200px; 
+        height: 165px; 
+        background-color: black;
+        text-align: center;
+        color: white; 
+        padding: 5px; 
+        display: flex;
+    flex-direction: row;
+    margin: 4px;
+    }    
+
+    
+    .text2{
+        margin-left: 10px;
+    }
+    #liGame2{
+        text-decoration: none; 
+        background-color: #4CAF50; 
+        color: white; 
+        padding: 5px 20px;
+        text-align: center;
+        display: inline-block;
+        margin-top: 55px;
+        border-radius: 4px;
+    }
+
+
+    #Game3{
+        width: 200px; 
+        height: 150px; 
+        background-color: black;
+        text-align: center;
+        color: white; 
+        padding: 5px; 
+        display: flex;
+       flex-direction: row;
+        margin: 4px;
+    }
+
+    .text3{
+        margin-left: 10px;
+    }
+    #liGame3{
+        text-decoration: none; 
+        background-color: #4CAF50; 
+        color: white; 
+        padding: 5px 20px;
+        text-align: center;
+        display: inline-block;
+        margin-top: 55px;
+        border-radius: 4px;
+    }
+
+    #software1{
+        width: 220px; 
+        height: 170px; 
+        background-color: black;
+        text-align: center;
+        color: white; 
+        padding: 5px; 
+        display: flex;
+       flex-direction: row;
+        margin: 8px;
+    }
+    .text4{
+        margin-left: 10px;
+    }
+    #lisoft1{
+        text-decoration: none; 
+        background-color: #4CAF50; 
+        color: white; 
+        padding: 5px 22px;
+        text-align: center;
+        display: inline-block;
+        margin-top: 40px;
+        border-radius: 4px;
+    }
+
+    #software2{
+        width: 220px; 
+        height: 170px; 
+        background-color: black;
+        text-align: center;
+        color: white; 
+        padding: 5px; 
+        display: flex;
+        flex-direction: row;
+         margin: 8px;
+    }    
+
+    
+    .text5{
+        margin-left: 10px;
+    }
+    #lisoft2{
+        text-decoration: none; 
+        background-color: #4CAF50; 
+        color: white; 
+        padding: 5px 20px;
+        text-align: center;
+        display: inline-block;
+        margin-top: 40px;
+        border-radius: 4px;
+    }
+
+
+    #software3{
+        width: 220px; 
+        height: 150px; 
+        background-color: black;
+        text-align: center;
+        color: white; 
+        padding: 5px; 
+        display: flex;
+       flex-direction: row;
+        margin: 4px;
+    }
+    .text6{
+        margin-left: 10px;
+    }
+    #lisoft3{
+        text-decoration: none; 
+        background-color: #4CAF50; 
+        color: white; 
+        padding: 5px 22px;
+        text-align: center;
+        display: inline-block;
+        margin-top: 56px;
+        border-radius: 4px;
+    }
+    #Telegram{
+        text-decoration: none; 
+        background-color: #4CAF50; 
+        color: white; 
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        border-radius: 4px;
+       }
+       #back{
+        text-decoration: none; 
+        background-color: #4CAF50; 
+        color: white; 
+        padding: 5px 20px;
+        text-align: center;
+        margin: 5px;
+        display: inline-block;
+        border-radius: 4px;
+        font-size: 5;
+       }
+    
+       #software0{
+        width: 220px; 
+        height: 170px; 
+        background-color: black;
+        text-align: center;
+        color: white; 
+        padding: 5px; 
+        display: flex;
+        flex-direction: row;
+         margin: 8px;
+    }    
+    .text0{
+        margin-left: 10px;
+    }
+    #lisoft0{
+        text-decoration: none; 
+        background-color: #4CAF50; 
+        color: white; 
+        padding: 5px 20px;
+        text-align: center;
+        display: inline-block;
+        margin-top: 19px;
+        border-radius: 4px;
+    }

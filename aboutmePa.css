@@ -1,0 +1,44 @@
+body{
+    background-color: #fde7d0;
+    direction: rtl;
+
+}
+
+#iconS{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+}
+#img2{
+    margin: 5px;
+}
+
+#Telegram{
+    text-decoration: none; 
+    background-color: #4CAF50; 
+    color: white; 
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 4px;
+   }
+   #Github{
+    text-decoration: none; 
+    background-color: #4CAF50; 
+    color: white; 
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 4px;
+   }
+   #back{
+    text-decoration: none; 
+    background-color: #4CAF50; 
+    color: white; 
+    padding: 5px 20px;
+    text-align: center;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 4px;
+    font-size: 5;
+   }

@@ -1,0 +1,14 @@
+body{
+    background-color: #fde7d0;
+}
+#Pagehome{
+            text-decoration: none; 
+            background-color: #4CAF50; 
+            color: white; 
+            padding: 5px 20px;
+            text-align: center;
+            display: inline-block;
+            margin-top: 17px;
+            border-radius: 4px;
+            margin-left: 20px;
+}
