@@ -3,6 +3,7 @@ body {
     height: 120vh;
     background-image: url('Bgd/bgd1.jfif');
     background-size: cover;
+    background-color: #fde7d0;
     background-position: center;
     background-repeat: no-repeat;
     /*animation: slide-up 30s infinite ;*/
@@ -15,6 +16,11 @@ body {
     100% {
         background-position: top;
     }
+}
+
+#ToseD{
+
+font-weight: bold;
 }
 #headM{
     text-align: center;
