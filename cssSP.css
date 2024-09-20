@@ -43,16 +43,18 @@ font-weight: bold;
     color: #000000; 
     padding: 15px 32px;
     text-align: center;
+    margin: 5px;
     display: inline-block;
     border-radius: 4px;
    }
-   #LIpa6{
+   #LIpa5{
     text-decoration: none; 
     background-color: #4CAF50; 
     font-weight: bold;
     color: #000000; 
     padding: 15px 32px;
     text-align: center;
+    margin: 5px;
     display: inline-block;
     border-radius: 4px;
    }
@@ -63,6 +65,7 @@ font-weight: bold;
     color: #000000; 
     padding: 15px 32px;
     text-align: center;
+    margin: 5px;
     display: inline-block;
     border-radius: 4px;
    }
@@ -73,6 +76,7 @@ font-weight: bold;
     color: #000000;  
     padding: 15px 32px;
     text-align: center;
+    margin: 5px;
     display: inline-block;
     border-radius: 4px;
    }
@@ -97,6 +101,7 @@ font-weight: bold;
     color: #000000;  
     padding: 15px 32px;
     text-align: center;
+    margin: 5px;
     display: inline-block;
     border-radius: 4px;
    }
