@@ -1,0 +1,36 @@
+body{
+    background-color: #fde7d0;
+}
+
+
+#Telegram{
+    text-decoration: none; 
+    background-color: #4CAF50; 
+    color: white; 
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    margin: 5px;
+    border-radius: 4px;
+   }
+   #Github{
+    text-decoration: none; 
+    background-color: #4CAF50; 
+    color: white; 
+    padding: 15px 32px;
+    margin: 5px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 4px;
+   }
+#back{
+    text-decoration: none; 
+    background-color: #4CAF50; 
+    color: white; 
+    padding: 5px 20px;
+    text-align: center;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 4px;
+    font-size: 5;
+   }
