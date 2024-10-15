@@ -5,9 +5,10 @@ body{
 .BtnNewsUi{
     text-decoration: none; 
     background-color: #4CAF50; 
-    color: white; 
+    color: rgb(0, 0, 0); 
     padding: 15px 32px;
     text-align: center;
+    font-weight: bold;
     display: inline-block;
     margin: 5px;
     border-radius: 4px;
